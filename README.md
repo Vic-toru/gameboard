@@ -1,3 +1,5 @@
 # gameboard
 Old project rpg gameboard
-This is an old personal project of a dice tray with various counters and buttons to add/remove dice, as well as a basic role-playing character sheet.
+
+This was one of my very first projects when I started learning development. It's a personal project: a dice tray featuring various counters and buttons to add or remove dice, along with a basic role-playing character sheet.
+
